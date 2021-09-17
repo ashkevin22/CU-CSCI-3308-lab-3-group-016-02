@@ -3,3 +3,5 @@
 Git command practice for group 016-02
 
 README edits on main
+
+Project Team Members: Zach Evans
