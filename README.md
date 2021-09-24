@@ -6,6 +6,5 @@ README edits on main
 
 Project Team Members: Zach Evans, Jaan Sigel
 
-
-
 corrected changes
+
