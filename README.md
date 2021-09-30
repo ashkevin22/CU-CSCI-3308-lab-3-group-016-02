@@ -4,7 +4,7 @@ Git command practice for group 016-02
 
 README edits on main
 
-Project Team Members: Zach Evans, Jaan Sigel, Franco Ruscitti
+Project Team Members: Zach Evans, Jaan Sigel, Franco A. Ruscitti
 
 corrected changes
 
